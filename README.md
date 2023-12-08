@@ -36,4 +36,12 @@ The data was for year 2020, provided for the completion of the data analytics pr
    - The *Mode Function* was used to determine the day with the highest number of trips. Where (F:F) is the data range.
      ```excel
      =mode(F:F)
+2. Pivot Tables
+
+Four pivots tables was plotted to analyze trnds and patterns in our data. They are follow:
+- Total Rides Per Subscription type:  shows the percentage of total rides for each subscription type.
+- Avg ride length per subscription type: shows the 
+- Avg ride length per weekday.
+- Total rides per weekdays for all subscription type
+
      
