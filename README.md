@@ -10,11 +10,30 @@ The data was for year 2020, provided for the completion of the data analytics pr
 ## Tools
 - Excel
 
-## Data Exploration and Cleaning
+## Data Preparation and Cleaning
 
 1. Check data for errors
     -The dataset was converted into XLS format from its original CSV format.
    - The dataset was filered for blanks and null values.
    - It was sorted in ascending order by the *started_at column*
 2. Transform data for effetive analysis
-     The *started_at* and *ended_at* columns were formatted into *dd:mm:yyyy hh:mm:ss* format
+     - The *started_at* and *ended_at* columns were formatted into *dd:mm:yyyy hh:mm:ss* format
+     - *Ride_length* column was calculated by *substracting* the started_at column values from the ended_at column values. This determined the trip duration for each bike ride.
+     - *Day_of_week* column shows the day in the week the ride started. This was calculated by using the formular below. Note that 1 denotes Sunday
+       ```excel
+       =weekday(C2,1)
+       ```
+## Exploratory Data Analysis
+1. Statistical Analysis
+   - Average trip duration was calculated, using the *Average function*. Where (E:E) is the data range.
+      ```excel
+      =average(E:E)
+      ```
+   - The highest trip duration was determing using the *Max function* Where (E:E) is the data range.
+     ```excel
+     =max(E:E)
+     ```
+   - The *Mode Function* was used to determine the day with the highest number of trips. Where (F:F) is the data range.
+     ```excel
+     =mode(F:F)
+     
