@@ -29,7 +29,7 @@ The data was for year 2020, provided for the completion of the data analytics pr
       ```excel
       =average(E:E)
       ```
-   - The highest trip duration was determing using the *Max function* Where (E:E) is the data range.
+   - The highest trip duration was determined using the *Max function* Where (E:E) is the data range.
      ```excel
      =max(E:E)
      ```
@@ -43,5 +43,18 @@ Four pivots tables was plotted to analyze trnds and patterns in our data. They a
 - Avg ride length per subscription type: shows the 
 - Avg ride length per weekday.
 - Total rides per weekdays for all subscription type
+
+## Key Findings
+
+1. Basic Statistics
+- The average ride length is 00:22:07
+- The maximum ride length is 15:30:24
+- The most frequent day of the week for a ride is 3 which denotes Tuesday
+2. Pivot Table
+- Total rides per subscription type: Casual riders contributed 11% with 48,363 rides while Members accounted for the remaining 89% with a total number of 368,407.
+- Avg ride length per subscription type: Casual riders ride the farthest distance as calculated by the average ride length of 01:36:01 (hh:mm:ss format) while the average ride length of members is 00:12:41 (hh:mm:ss format).
+- Sunday (00:15:49) and Saturday (00:15:30) are the highest average ride length for annual membership.
+- Thursday and Friday have the highest value for average ride length for the casual riders with 02:06:40 and 01:58:46 respectively.
+
 
      
