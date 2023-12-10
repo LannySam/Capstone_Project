@@ -62,7 +62,10 @@ The dashboard was created using Excel pivot tables, charts and slicer.
 
 ## Recommendation
 
-My recommendations are as followed.
+- Causal riders travels the farthest with high rate during working days.
+- Annual members rides to excecise during the weekends.
+  
+
 
 
      
