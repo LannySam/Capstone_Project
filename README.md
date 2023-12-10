@@ -56,5 +56,11 @@ Four pivots tables was plotted to analyze trends and patterns in our data.
 - Sunday (00:15:49) and Saturday (00:15:30) are the highest average ride length for annual membership.
 - Thursday and Friday have the highest value for average ride length for the casual riders with 02:06:40 and 01:58:46 respectively.
 
+## Dashboard
+
+The dashboard was created using Excel pivot tables, charts and slicer.
+
+## Recommendation
+
 
      
