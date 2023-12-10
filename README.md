@@ -3,9 +3,9 @@
 ## Project Overview
 Analyze the Cyclitics bike-share data to determine the difference how Annual Members and Casual Riders use Cyclitics bikes differently.
 
-## Data Source
+## The Dataset
 
-The data was for year 2020, provided for the completion of the data analytics program [Download Here](https://divvy-tripdata.s3.amazonaws.com/index.html). The file was downloaded in CSV format and was converted to XLS format. The converted XLS format was saved in a subfolder named XLS_data.
+The dataset was for quarter 1, year 2020, provided for the completion of the data analytics program [Download Here](https://divvy-tripdata.s3.amazonaws.com/index.html). The file was downloaded in CSV format and was converted to XLS format. The converted XLS format was saved in a subfolder named XLS_data.
 
 ## Tools
 - Excel
