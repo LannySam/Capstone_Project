@@ -42,7 +42,7 @@ The dataset was for quarter 1, year 2020, provided for the completion of the dat
    - The *Mode Function* was used to determine the day with the highest number of trips. Where (F:F) is the data range.
      ```excel
      =mode(F:F)
-
+     ```
      ![Viz_1](https://github.com/LannySam/Capstone_Project/assets/148140514/35a244dc-f20f-4327-b676-b8e100a1e1c0)
 
 2. Pivot Tables
