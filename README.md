@@ -7,6 +7,9 @@ Analyze the Cyclitics bike-share data to determine the difference how Annual Mem
 
 The dataset was for quarter 1, year 2020, provided for the completion of the data analytics program [Download Here](https://divvy-tripdata.s3.amazonaws.com/index.html). The file was downloaded in CSV format and was converted to XLS format. The converted XLS format was saved in a subfolder named XLS_data.
 
+
+![data_1](https://github.com/LannySam/Capstone_Project/assets/148140514/43518ab0-fdd8-457b-9d5d-6a109abce6ec)
+
 ## Tools
 - Excel
 
@@ -23,6 +26,9 @@ The dataset was for quarter 1, year 2020, provided for the completion of the dat
        ```excel
        =weekday(C2,1)
        ```
+![pix2](https://github.com/LannySam/Capstone_Project/assets/148140514/e7711f5c-2c0c-4e44-ac81-c29a0de35bd1)
+
+       
 ## Exploratory Data Analysis
 1. Statistical Analysis
    - Average trip duration was calculated, using the *Average function*. Where (E:E) is the data range.
@@ -36,6 +42,9 @@ The dataset was for quarter 1, year 2020, provided for the completion of the dat
    - The *Mode Function* was used to determine the day with the highest number of trips. Where (F:F) is the data range.
      ```excel
      =mode(F:F)
+
+     ![Viz_1](https://github.com/LannySam/Capstone_Project/assets/148140514/35a244dc-f20f-4327-b676-b8e100a1e1c0)
+
 2. Pivot Tables
 
 Four pivots tables was plotted to analyze trends and patterns in our data.
@@ -43,6 +52,9 @@ Four pivots tables was plotted to analyze trends and patterns in our data.
 - Avg ride length per subscription type: shows the 
 - Avg ride length per weekday.
 - Total rides per weekdays for all subscription type
+
+  ![Viz_2](https://github.com/LannySam/Capstone_Project/assets/148140514/91172925-f66f-4ede-8340-1ae87e280b33)
+
 
 ## Key Findings
 
@@ -59,6 +71,9 @@ Four pivots tables was plotted to analyze trends and patterns in our data.
 ## Dashboard
 
 The dashboard was created using Excel pivot tables, charts and slicer.
+
+![viz_3](https://github.com/LannySam/Capstone_Project/assets/148140514/ac22377e-965f-4861-b928-012255e6996b)
+
 
 ## Recommendation
 
