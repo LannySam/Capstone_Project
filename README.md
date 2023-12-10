@@ -62,5 +62,7 @@ The dashboard was created using Excel pivot tables, charts and slicer.
 
 ## Recommendation
 
+My recommendations are as followed.
+
 
      
