@@ -1,7 +1,7 @@
 # Cyclistic Bike-Share Usage Analysis
 
 ## Project Overview
-Analyze the Cyclitics bike-sharing data to determine the difference how Annual Members and Casual Riders use the program differently in quarter 1 of the fiscal year.
+Analyze the Cyclitics bike-share data to determine the difference how Annual Members and Casual Riders use Cyclitics bikes differently.
 
 ## Data Source
 
